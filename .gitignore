@@ -1,0 +1,16 @@
+# yarn
+node_modules/
+yarn-error.log
+
+# jest
+coverage/
+
+# vs code
+.vscode/
+
+# OSX
+.DS_Store
+
+# Build
+dist/
+dist_packed/
